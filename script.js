@@ -2,7 +2,7 @@
 window.onload = function(){
     alert("Game on, let's go! Ready to play! \n👍👍👍")
     
-    alert("Please make sure that you have time to play the GAME.........!!>>>>>>>> [done by @pranit_sarode ] ");
+    //alert("Please make sure that you have time to play the GAME.........!!>>>>>>>> [done by @pranit_sarode ] ");
     
     String.prototype.repeat =  String.prototype.repeat ||
       function(c){
